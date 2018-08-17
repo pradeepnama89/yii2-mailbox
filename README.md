@@ -30,7 +30,7 @@ import from [mailbox.sql](migrations/mailbox.sql)
 or
 
 ```
-yii migrate --migrationPath=@hscstudio\mailbox\migrations
+yii migrate --migrationPath=@vendor/hscstudio/yii2-mailbox/migrations
 ```
 
 ## Usage
